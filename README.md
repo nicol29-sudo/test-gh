@@ -1,4 +1,4 @@
-![Mi foto](foto.jpeg)
+<img src="foto.jpeg" width="150"/>
 # 👨‍💻 Presentación Personal
 
 ## 📌 Nombre
