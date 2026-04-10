@@ -1,4 +1,5 @@
 ![Mi foto](foto.jpg)
+![Prueba](https://via.placeholder.com/150)
 # 👨‍💻 Presentación Personal
 
 ## 📌 Nombre
