@@ -1,13 +1,20 @@
-# test-gh
-# autor: nicol riascos 
-## Lista de elemetos 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+# 👨‍💻 Presentación Personal
 
-  ## Seccion de codigo
-  ```bash
-  git init
-  git status
-  git add --all
-  git commit -m "comentario"
+## 📌 Nombre
+Nicol Riascos
+
+## Perfil Profesional
+soy estudiante de ingeneria de sistema .
+
+##  Habilidades
+- HTML, CSS, JavaScript
+- Bases de datos (PostgreSQL, MySQL)
+- Python / Java 
+
+##  Proyectos
+- Proyecto 1: una paguan wed , la cual fue desarrollada para la venta de pelucas .
+- Proyecto 2: 
+
+## 📫 Contacto
+- Email: nicol20042928@gmail.com
+- tel:3136585338
