@@ -19,3 +19,7 @@ soy estudiante de ingeneria de sistema .
 ## 📫 Contacto
 - Email: nicol20042928@gmail.com
 - tel:3136585338
+
+- <p align="center">
+  <img src="foto.jpg" width="200"/>
+</p>
