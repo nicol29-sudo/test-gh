@@ -1,4 +1,4 @@
-![Mi foto](foto.jpg)
+![Mi foto](foto.jpeg)
 # 👨‍💻 Presentación Personal
 
 ## 📌 Nombre
